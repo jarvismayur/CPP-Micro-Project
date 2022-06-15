@@ -61,13 +61,13 @@ public:
     example e3(e1);
     break;
   case 4:
-    goto Bhushan;
+    goto Mayur;
     break;
   default:
   cout<<"Your Choice is Wrong"<<endl;
   break;
   }
   }while(choice<=4);
-  Bhushan:
+  Mayur:
   getch();
   }
